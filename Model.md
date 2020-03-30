@@ -22,9 +22,7 @@ Pengatur stock bertugas menyesuaikan data asli dengan data yang ada di database,
 kesalahan pada database yang membuatnya sedikit error.
 
 ## Client
-Bertugas untuk memesan menu makanan yang diinginkan, membayarnya (untuk membayar harus ke sisi admin kasir terlebih dulu), saat
-client memesan menu, client dapat melihat isi dari suatu paket menu dan juga jika client tidak jadi untuk menambahkan suatu menu
-tersedia fungsi untuk menghapusnya dari daftar menu yang telah dipilih.
+Bertugas untuk memesan menu makanan yang diinginkan, membayarnya (untuk membayar harus ke sisi admin kasir terlebih dulu), saat client memesan menu, client dapat melihat isi dari suatu paket menu dan juga jika client tidak jadi untuk menambahkan suatu menu tersedia fungsi untuk menghapusnya dari daftar menu yang telah dipilih.
 
 ## Akhir
 Jika sudah selesai memakai maka dapat dikeluarkan atau logout.
