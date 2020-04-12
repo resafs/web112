@@ -109,7 +109,7 @@ class Transaksi:
         data = self.cli.lrange('keuntungan',0,-1)
         for i in data:
             if today in str(i):
-                return msg.showinfo('KEUNTUNGAN!','Keuntungan hari ini: ' + str(i)[2:-1].split()[1])
+                return msg.showinfo('KEUNTUNGAN!','Keuntungan ' + str(today) + ': ' + str(i)[2:-1].split()[1])
                 
         return msg.showinfo('KEUNTUNGAN!','Maaf belum ada yang membeli: ' + str(0))
 
