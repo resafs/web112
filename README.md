@@ -25,3 +25,7 @@
  1. Melihat daftar admin maupun client (passwordnya: navlihat)
  1. Menambahkan admin atau client (passwordnya: navdaftar)
  1. Menghapus admin atau client (passwordnya: navhapus)
+
+# Link Video Pemakaian
+  https://youtu.be/V6lvCGIjkoQ 
+ 
